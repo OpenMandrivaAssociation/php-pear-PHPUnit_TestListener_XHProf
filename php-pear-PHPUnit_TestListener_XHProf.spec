@@ -71,3 +71,17 @@ fi
 %{_datadir}/pear/PHPUnit/Util/Log/XHProf.php
 %{_datadir}/pear/packages/PHPUnit_TestListener_XHProf.xml
 
+
+
+%changelog
+* Fri Dec 16 2011 Oden Eriksson <oeriksson@mandriva.com> 1.0.0-2mdv2012.0
++ Revision: 742210
+- fix major breakage by careless packager
+
+* Wed Nov 16 2011 Oden Eriksson <oeriksson@mandriva.com> 1.0.0-1
++ Revision: 730895
+- import php-pear-PHPUnit_TestListener_XHProf
+
+
+* Wed Nov 16 2011 Oden Eriksson <oeriksson@mandriva.com> 1.0.0-1mdv2010.2
+- initial Mandriva package
